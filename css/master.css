@@ -414,6 +414,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 40px;
+    min-width: 300px;
 }
 .about .container .ll6 .text {
     max-width: 350px;
